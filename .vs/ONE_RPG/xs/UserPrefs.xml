@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3CDCD9B7-8DA3-20F5-D9B3-2446ED40289A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/kdm dot/Day.cs">
+    <Files>
+      <File FileName="Assets/kdm dot/Move.cs" Line="111" Column="1" />
+      <File FileName="Assets/kdm dot/CheckPoint.cs" Line="7" Column="11" />
+      <File FileName="Assets/kdm dot/Day.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
